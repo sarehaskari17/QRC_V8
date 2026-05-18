@@ -1,0 +1,5 @@
+pip install qiskit==1.4.2
+pip install git+https://github.com/qiskit-community/qiskit-textbook.git#subdirectory=qiskit-textbook-src
+pip install qutip==5.1.1
+pip install qiskit_dynamics==0.5.1
+pip install qiskit_aer==0.17.0
