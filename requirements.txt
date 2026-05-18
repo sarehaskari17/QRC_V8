@@ -3,3 +3,7 @@ pip install git+https://github.com/qiskit-community/qiskit-textbook.git#subdirec
 pip install qutip==5.1.1
 pip install qiskit_dynamics==0.5.1
 pip install qiskit_aer==0.17.0
+pip install networkx==2.8.8
+pip install matplotlib==3.7.1
+pip install seaborn==0.12.2
+pip install scikit-learn==1.2.2 
