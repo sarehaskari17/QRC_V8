@@ -1,6 +1,6 @@
 import numpy as np
 
-from utils import commutator, lindblad_term, psi_sk
+from qrc.utils import commutator, lindblad_term, psi_sk
 
 
 def custom_evolution_rk4_update(t, rho_flat, param):
